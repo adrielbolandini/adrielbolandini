@@ -2,6 +2,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adrielbolandini)](https://github.com/adrielbolandini)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrielbolandini/)](https://www.linkedin.com/in/adrielbolandini/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bolandiniadriel@gmail.com)](mailto:bolandiniadriel@gmail.com)
+ 
 
 ### Sobre mim
 
@@ -18,7 +20,7 @@ Estou em constante aprendizado, focando em desenvolvimento Full Stack Javascript
 ![Databses Badges](https://shields.io./badge/Databases-MongoDB%20--%20PostgresSQL-informational)
 
 
-Além disse, possui conhecimento em outras linguagens:
+Além disso, possui conhecimento em outras linguagens:
 
 ![Java Badge](https://shields.io./badge/-Java-informational)
 
@@ -26,5 +28,4 @@ Além disse, possui conhecimento em outras linguagens:
 
 ![IGTI Badge](https://shields.io./badge/IGTI-Desenvolvedor%20Full%20Stack-brightgreen)
 ![OneBitCode Badge](https://shields.io./badge/OneBitCode-Programador%20Full%20Stack%20JavaScript%20PRO-red)
-
 
