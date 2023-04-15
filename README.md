@@ -16,13 +16,11 @@ Estou em constante aprendizado, focando em desenvolvimento Full Stack Javascript
 ![Typescript Badge](https://shields.io./badge/-Typescript-blue)
 ![React Badge](https://shields.io./badge/-React-9cf)
 ![ReactNative Badge](https://shields.io./badge/-React%20Native-blueviolet)
+![Java Badge](https://shields.io./badge/-Java-informational)
 
 ![Databses Badges](https://shields.io./badge/Databases-MongoDB%20--%20PostgresSQL-informational)
 
 
-Além disso, possui conhecimento em outras linguagens:
-
-![Java Badge](https://shields.io./badge/-Java-informational)
 
 ### Cursos e similares 
 
